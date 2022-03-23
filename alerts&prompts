@@ -1,0 +1,14 @@
+let name = prompt("What is your name?");
+console.log("Your name is", name);
+
+let favMovie = prompt("What is your favorite movie?"); 
+console.log ("Your favorite movie is " + favMovie +"."); 
+
+
+
+let favMeal = prompt("What's your favorite meal?"); 
+console.log ("Your favorite meal is ", favMeal + "."); 
+
+alert ("Your name is " + name + ".");
+alert("Your favorite movie is "+ favMovie + "."); 
+alert("Your favorite meal is" + favMeal + "."); 
